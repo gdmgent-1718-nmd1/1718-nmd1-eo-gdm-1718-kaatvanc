@@ -107,3 +107,81 @@ h2 {
         width: 130px;
         display: inline-block;
     }
+
+h3{
+    font-size: 40px;
+}
+
+p{
+    font-size: 20px;
+}
+
+h4{
+    font-size: 35px;
+
+}
+
+.knoppen{
+    display: block;
+}
+
+.knopextra{
+    display: inline-block;
+    margin: 30px;
+}
+
+.uitleg{
+    margin-top: 10px;
+}
+
+.knopseries{
+    font-family: "aliens and cows";
+    font-size: 30px;
+    color: black;
+    background-color: white;
+    width: 230px;
+    height: 28px;
+    padding: 15px;
+    border: 1px;
+    box-shadow:2px 1px 10px rgb(207, 207, 207);
+}
+
+.knopseries:hover{
+    color: white;
+    background-color: black;
+}
+
+.knopmovie{
+    font-family: "aliens and cows";
+    font-size: 30px;
+    color: black;
+    background-color: white;
+    width: 220px;
+    height: 28px;
+    padding: 15px;
+    border: 1px;
+    box-shadow:2px 1px 10px rgb(207, 207, 207);
+}
+
+.knopmovie:hover{
+    color: white;
+    background-color: black;
+}
+
+.knopbestel{
+    font-family: "aliens and cows";
+    font-size: 30px;
+    color: white;
+    background-color: #412D2D;
+    width: 220px;
+    height: 28px;
+    padding: 15px;
+    border: 1px;
+    box-shadow:2px 1px 10px rgb(207, 207, 207);
+    text-align: center;
+}
+
+.knopbestel:hover{
+    color: #412D2D;
+    background-color: white;
+}
