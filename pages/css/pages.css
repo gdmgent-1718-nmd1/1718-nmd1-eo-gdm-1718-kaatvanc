@@ -16,3 +16,67 @@ img {
 }
 
 /* Voeg jouw css hieraan toe */
+
+h2 {
+    font-family: bebas neue;
+    color: grey;
+}
+
+.kleuren{
+    display: block;
+    }
+    
+    .kleur1{
+        height: 130px;
+        width: 150px;
+        background-color: #42CE64;
+        color: white;
+        padding: 10px;
+        display: inline-block;
+    }
+    
+    .kleur2{
+        height: 130px;
+        width: 150px;
+        background-color: #1C244A;
+        color: white;
+        padding: 10px;
+        display: inline-block;
+    }
+    
+    .kleur3{
+        height: 130px;
+        width: 150px;
+        background-color: #412D2D;
+        color: white;
+        padding: 10px;
+        display: inline-block;
+    }
+    
+    .kleur4{
+        height: 130px;
+        width: 150px;
+        background-color: #F5F5F5;
+        color: #000000;
+        padding: 10px;
+        display: inline-block;
+    }
+    
+    .kleur5{
+        height: 130px;
+        width: 150px;
+        background-color: #000000;
+        color: #FFFFFF;
+        padding: 10px;
+        display: inline-block;
+        border: 1px solid rgb(180, 180, 180);
+    }
+
+.titels{
+    font-family: Aliens and cows;
+}
+
+.tekst{
+    font-family: Lato;
+}
+
